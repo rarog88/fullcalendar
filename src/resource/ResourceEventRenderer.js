@@ -300,10 +300,10 @@ function ResourceEventRenderer() {
             classes.push('fc-event-draggable');
         }
         if (seg.isStart) {
-            classes.push('fc-corner-top');
+            classes.push('fc-event-start');
         }
         if (seg.isEnd) {
-            classes.push('fc-corner-bottom');
+            classes.push('fc-event-end');
         }
         classes = classes.concat(event.className);
         if (event.source) {
