@@ -1,3 +1,4 @@
+merged with https://github.com/ikelin/fullcalendar/ resourceDay view fork.
 
 FullCalendar - Full-sized drag & drop event calendar
 ====================================================
